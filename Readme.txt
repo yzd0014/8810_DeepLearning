@@ -1,0 +1,2 @@
+# All script is written and tested in Jupyter.
+# To get figures mentioned in my report, create a new notebook with Tensorflow in Jupyter. Then copy source code into the notebook and run the python script. 
